@@ -1,0 +1,15 @@
+.player {
+    position: absolute; /* makes sure the position is set to the bottom of the grid*/
+    width: 60px;
+    height: 60px;
+    background-color: green;
+    bottom: 0px; /* makes sure the position is set to the bottom of the grid*/
+}
+
+.obstacle {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: palevioletred;
+    bottom: 0px;
+}
